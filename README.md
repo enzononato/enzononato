@@ -1,16 +1,10 @@
-## Hi There👋
+## Opa👋, sou o Enzo Nonato, estudante de Ciências da Computação!!
 
 
-- 👀 I'm interested in learning a little bit about programming
-- 🌱 I’m currently learning HTML/CSS, JavaScript and Python
-- 💞️ I’m looking to collaborate on ... I still do not know
-- 📫 Reach me on Instagram as @silva_enzo_ or in e-mail as enzononato10@gmail.com
-
-##
-<div>
+<div align="center">
   <a href="https://github.com/enzononato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzononato&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzononato&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="171em" src="https://github-readme-stats.vercel.app/api?username=enzononato&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="171em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzononato&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 
