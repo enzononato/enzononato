@@ -1,4 +1,4 @@
-## Wassup🤙, I'm Enzo Nonato, a computer science student!!
+## Hi🤙, I'm Enzo Nonato, i am a Software Developer!!
 
 
 <div align="center">
